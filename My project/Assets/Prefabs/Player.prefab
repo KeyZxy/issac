@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -5006485678388462524}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -110,12 +110,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6b8d24aa1a172c4ab731da6430dd678, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Bullet: {fileID: 0}
-  rb: {fileID: 1752021920104254993}
+  BulletPrefab: {fileID: 3349342873629486420, guid: 89ff73b264395024498c8cf2c1a87487, type: 3}
+  moveInput: {x: 0, y: 0}
+  maxHealth: 6
+  health: 6
   speed: 3
-  cooltime: 1
-  x: 0
-  y: 0
+  playerRange: 5
+  Tears: 0
+  TearsDelayMultiple: 1
+  TearsDelayAdded: 0
 --- !u!1 &6675922347789348741
 GameObject:
   m_ObjectHideFlags: 0
@@ -127,7 +130,7 @@ GameObject:
   - component: {fileID: 3403448847076320615}
   - component: {fileID: 4919719066736425510}
   m_Layer: 0
-  m_Name: Issac_sprite_16
+  m_Name: body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -211,7 +214,7 @@ GameObject:
   - component: {fileID: 5076055967165531619}
   - component: {fileID: 7543971738117015915}
   m_Layer: 0
-  m_Name: Issac_sprite_1
+  m_Name: head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
