@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1752021920104254993}
   - component: {fileID: 3376271376421898162}
   - component: {fileID: -5006485678388462524}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -110,12 +110,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6b8d24aa1a172c4ab731da6430dd678, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  head: {fileID: 5076055967165531619}
+  body: {fileID: 3403448847076320615}
+  isLive: 1
   BulletPrefab: {fileID: 3349342873629486420, guid: 89ff73b264395024498c8cf2c1a87487, type: 3}
-  moveInput: {x: 0, y: 0}
+  bombPrefab: {fileID: -8859080085843076220, guid: 52862d7d67a3ee9408a2407f19523473, type: 3}
   maxHealth: 6
   health: 6
   speed: 3
+  SpeedMultiple: 1
   playerRange: 5
+  BombNum: 10
+  KeyNum: 3
+  CoinNum: 10
+  HeartNum: 0
+  Knockback: 1
+  DamageMultiple: 1
+  DamageBase: 0
+  DamageAdded: 0
   Tears: 0
   TearsDelayMultiple: 1
   TearsDelayAdded: 0
@@ -129,7 +141,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3403448847076320615}
   - component: {fileID: 4919719066736425510}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -213,7 +225,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5076055967165531619}
   - component: {fileID: 7543971738117015915}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
