@@ -167,15 +167,16 @@ public class Player : MonoBehaviour, IAttackable
         }
     }
     //获取基础掉落物
-    private void OnTriggerEnter2D(Collider2D collision)
+    public void OnTriggerEnter2D(Collider2D collision)
     {
+
         GetDropItem(collision.gameObject);
+
 
     }
     void GetDropItem(GameObject prof)
     {
         string itemTag = prof.tag;
-        bool profFlag = false;
         switch (itemTag)
         {
             case "Heart":
@@ -184,34 +185,28 @@ public class Player : MonoBehaviour, IAttackable
                 {
                     health = maxHealth;
                 }
-                profFlag = true;
+                Destroy(prof);
                 break;
             case "Coin":
                 CoinNum += 1;
-                profFlag = true;
+                Destroy(prof);
                 break;
             case "Bomb":
                 BombNum += 1;
-                profFlag = true;
+                Destroy(prof);
                 break;
             case "Key":
                 KeyNum += 1;
-                profFlag = true;
+                Destroy(prof);
                 break;
         }
-        if (profFlag)
-        {
-            GameObject profGenerator = GameObject.FindGameObjectWithTag("RewardClearingRoom");
-            RoomRewardGenerator objectGenerator = profGenerator.GetComponent<RoomRewardGenerator>();
-            Destroy(prof);
-        }
 
-    
+
     }
     public void BeAttacked(float damage, Vector2 direction, float forceMultiple = 1)
     {
         if (isInvincible || !isLive) { return; }
-        health-=((int)damage);
+        health -= ((int)damage);
         if (health <= 0)
         {
             PlayerDeath();

@@ -1405,6 +1405,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca880cc372273044281648b084eaf7bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isClear: 0
+  playerInRoom: 0
+  roomObjects: []
+  enemis: []
+  roomGrid: {fileID: 0}
+  cameraPosition: {fileID: 0}
+  doorPosition: []
+  movePosition: []
 --- !u!1 &6807829602490005977
 GameObject:
   m_ObjectHideFlags: 0
