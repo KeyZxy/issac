@@ -9,6 +9,7 @@ TagManager:
   - Coin
   - Key
   - Bomb
+  - StartRoom
   layers:
   - Default
   - TransparentFX
