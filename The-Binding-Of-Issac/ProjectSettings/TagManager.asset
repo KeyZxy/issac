@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Obstacle
+  - Tears
+  - Object_Poop
+  - Object_Rock
+  - Object_Fire
+  - Object_Spikes
+  - Enemy
+  - Boss
+  - AttackBomb
+  - door
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - FirePlace
+  - Poop
+  - Rock
+  - Spike
+  - FlyEnemy
+  - SpiderEnemy
+  - IsaacEnemy
+  - Player
+  - Item
+  - Chest
+  - OpenChest
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - LarryJr
+  - 
+  - 
+  - 
+  - 
+  - miniMap
+  - NoCollision
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
