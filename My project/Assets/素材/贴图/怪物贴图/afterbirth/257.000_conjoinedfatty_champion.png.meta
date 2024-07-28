@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: ae852d92be1676245982a5845e5f36c6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 192
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c259f84a16690f42b876d1330fc0916
+      internalID: -901648592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 261
+        width: 96
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05da1e44bf267743ac71c81672543b1
+      internalID: 75620606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 208
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab2ac49f0a280d41b492f028305c8b2
+      internalID: 1093668197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 208
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f7e80f6c603314e9fb83a638020cc7
+      internalID: 524684358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 208
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7913d23c50e4e75439d9c5df2a61caa5
+      internalID: -1527945181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 208
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6961a7a35e711fe46be817010d643348
+      internalID: -362915803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 208
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506e4709e8157ac4fbc87115a20f2bc4
+      internalID: -134150362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 208
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2089dc247fb648d4783a0bd97fd4f3fd
+      internalID: -928347071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 208
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98bdfde95776a641aa0fd04eb963e0d
+      internalID: -120249037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 208
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af69a1bd9150c5d46bea9c3cce3d7586
+      internalID: -1115187287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 144
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca782892a45e61c489cf2c0959b382d4
+      internalID: -492189125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 144
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125251d185196524e87e8772acbae98e
+      internalID: -866073671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 144
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35be215390607ff4b859d3d694f3293d
+      internalID: -1342086016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 144
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95af141afccb3ee468fccfaa75f51db9
+      internalID: 441479843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_14
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 143
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880d048abee4cf249baa6272994d8bd3
+      internalID: -1703885793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_15
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 143
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab3602cd2442b4478b0df564eba080b
+      internalID: -403955524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 143
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d569038ab7fdc9458c592ba12388f36
+      internalID: -1890827747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 143
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbfed0e25632ba4b8b6d3a470e03ab4
+      internalID: 854560669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 80
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83ce8b95fcebd44fa00e8c438a92607
+      internalID: -1611123462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 80
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db30af117865dda4188eea6fc3ff204e
+      internalID: -323073177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 80
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084f5118b7a594a45a9349b29abb9a19
+      internalID: 592327035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 80
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398c0d37b10c34a4b9ab177b00689873
+      internalID: -1655379013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 80
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9856a80cdcd99c24b84caefb9b8d373b
+      internalID: -2046579570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_23
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 80
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff9ebd92d4e29941948eabbf46fba32
+      internalID: -1548927772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_24
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 80
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb0e662b69dee449b9af2af5b4a3a65
+      internalID: -620375575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_25
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 80
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d270c0fdcb701bf4aa8d6739522a1768
+      internalID: -1270629958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 16
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6430c387bc49c1c4daf7109e92800a56
+      internalID: -1275140203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_27
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 16
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff60ead8d1c89a440b26edcb0ede539e
+      internalID: -1814818290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 16
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57380f76852d5f74cac1d74720779f31
+      internalID: -1554064793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257.000_conjoinedfatty_champion_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 16
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ac971decc421d4cb43c778ee98d15d
+      internalID: 2132562708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      257.000_conjoinedfatty_champion_0: -901648592
+      257.000_conjoinedfatty_champion_1: 75620606
+      257.000_conjoinedfatty_champion_10: -492189125
+      257.000_conjoinedfatty_champion_11: -866073671
+      257.000_conjoinedfatty_champion_12: -1342086016
+      257.000_conjoinedfatty_champion_13: 441479843
+      257.000_conjoinedfatty_champion_14: -1703885793
+      257.000_conjoinedfatty_champion_15: -403955524
+      257.000_conjoinedfatty_champion_16: -1890827747
+      257.000_conjoinedfatty_champion_17: 854560669
+      257.000_conjoinedfatty_champion_18: -1611123462
+      257.000_conjoinedfatty_champion_19: -323073177
+      257.000_conjoinedfatty_champion_2: 1093668197
+      257.000_conjoinedfatty_champion_20: 592327035
+      257.000_conjoinedfatty_champion_21: -1655379013
+      257.000_conjoinedfatty_champion_22: -2046579570
+      257.000_conjoinedfatty_champion_23: -1548927772
+      257.000_conjoinedfatty_champion_24: -620375575
+      257.000_conjoinedfatty_champion_25: -1270629958
+      257.000_conjoinedfatty_champion_26: -1275140203
+      257.000_conjoinedfatty_champion_27: -1814818290
+      257.000_conjoinedfatty_champion_28: -1554064793
+      257.000_conjoinedfatty_champion_29: 2132562708
+      257.000_conjoinedfatty_champion_3: 524684358
+      257.000_conjoinedfatty_champion_4: -1527945181
+      257.000_conjoinedfatty_champion_5: -362915803
+      257.000_conjoinedfatty_champion_6: -134150362
+      257.000_conjoinedfatty_champion_7: -928347071
+      257.000_conjoinedfatty_champion_8: -120249037
+      257.000_conjoinedfatty_champion_9: -1115187287
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
